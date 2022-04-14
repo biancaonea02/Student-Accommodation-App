@@ -1,0 +1,20 @@
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\bin\Debug\Proba.exe.config
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\bin\Debug\Proba.exe
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\bin\Debug\Proba.pdb
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Student Accomodation App.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.Form1.resources
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Student Accomodation App.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Student Accomodation App.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.exe
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.pdb
+C:\Users\Ana\HousingApp\Student Accomodation App\bin\Debug\Proba.exe.config
+C:\Users\Ana\HousingApp\Student Accomodation App\bin\Debug\Proba.exe
+C:\Users\Ana\HousingApp\Student Accomodation App\bin\Debug\Proba.pdb
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Student Accomodation App.csprojAssemblyReference.cache
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Proba.Form1.resources
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Student Accomodation App.csproj.GenerateResource.cache
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Student Accomodation App.csproj.CoreCompileInputs.cache
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Proba.exe
+C:\Users\Ana\HousingApp\Student Accomodation App\obj\Debug\Proba.pdb

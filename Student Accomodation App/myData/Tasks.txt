@@ -1,0 +1,5 @@
+Ana: take out the paper trash until Tuesday: Garbage
+Bianca: take out the glass trash until Wednesday, category: Garbage
+Ante: buy some cleaning products until Saturday, category: Buying
+Ana: clean the floor until Sunday, category: Cleaning
+Ante: organize the fridge until Friday, category: Cleaning

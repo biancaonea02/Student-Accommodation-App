@@ -1,0 +1,50 @@
+C:\Users\EU\source\repos\Proba\bin\Debug\Proba.exe.config
+C:\Users\EU\source\repos\Proba\bin\Debug\Proba.exe
+C:\Users\EU\source\repos\Proba\bin\Debug\Proba.pdb
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.Form1.resources
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.exe
+C:\Users\EU\source\repos\Proba\obj\Debug\Proba.pdb
+C:\Users\EU\Desktop\Proba\bin\Debug\Proba.exe.config
+C:\Users\EU\Desktop\Proba\bin\Debug\Proba.exe
+C:\Users\EU\Desktop\Proba\bin\Debug\Proba.pdb
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.Form1.resources
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.exe
+C:\Users\EU\Desktop\Proba\obj\Debug\Proba.pdb
+C:\Users\EU\Desktop\Proba - Copy\bin\Debug\Proba.exe.config
+C:\Users\EU\Desktop\Proba - Copy\bin\Debug\Proba.exe
+C:\Users\EU\Desktop\Proba - Copy\bin\Debug\Proba.pdb
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.Form1.resources
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.exe
+C:\Users\EU\Desktop\Proba - Copy\obj\Debug\Proba.pdb
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\bin\Debug\Proba.exe.config
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\bin\Debug\Proba.exe
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\bin\Debug\Proba.pdb
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.Form1.resources
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.exe
+C:\Users\EU\Desktop\ala bun2\Proba - Copy - Copy\obj\Debug\Proba.pdb
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\bin\Debug\Proba.exe.config
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\bin\Debug\Proba.exe
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\bin\Debug\Proba.pdb
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.csprojAssemblyReference.cache
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.Form1.resources
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.Properties.Resources.resources
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.csproj.GenerateResource.cache
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.csproj.CoreCompileInputs.cache
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.exe
+C:\Users\EU\Desktop\ala bun2\Student Accomodation App\obj\Debug\Proba.pdb
